@@ -1,5 +1,5 @@
 # react-native-cached-image-viewer-viewer
-[![GitHub](https://img.shields.io/badge/Author-atiksoftware%20Router-blue)]()
+[![GitHub](https://img.shields.io/badge/Author-atiksoftware-blue)]()
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fatiksoftware%2Freact-native-cached-image-viewer)]()
 [![GitHub stars](https://img.shields.io/github/stars/atiksoftware/react-native-cached-image-viewer?color=brightgreen)]()
 [![GitHub contributors](https://img.shields.io/github/contributors/atiksoftware/react-native-cached-image-viewer?color=brightgreen)]()
