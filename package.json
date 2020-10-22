@@ -1,6 +1,6 @@
 {
     "name": "react-native-cached-image-viewer",
-    "version": "2.1.4",
+    "version": "2.1.5",
     "description": "React native Cached Image Viewer component for react-native",
     "main": "index.js",
     "scripts": {
