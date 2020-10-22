@@ -7,7 +7,7 @@ function createPreloader(list) {
     return {
         next() {
             return urls.shift();
-        }
+        } 
     };
 }
 

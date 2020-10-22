@@ -7,7 +7,7 @@ declare module "react-native-cached-image" {
       /**
        * props for the ActivityIndicator that is shown while the image is downloaded.
        */
-      activityIndicatorProps: ReactNative.ActivityIndicatorProperties
+      activityIndicatorProps: ReactNative.ActivityIndicatorProperties 
       /** 
        * component prop to set custom ActivityIndicator 
        */

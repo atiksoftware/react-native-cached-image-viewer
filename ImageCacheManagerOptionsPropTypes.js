@@ -3,7 +3,7 @@
 const PropTypes = require('prop-types');
 
 module.exports = {
-    headers: PropTypes.object,
+    headers: PropTypes.object, 
     ttl: PropTypes.number,
     useQueryParamsInCacheKey: PropTypes.oneOfType([
         PropTypes.bool,

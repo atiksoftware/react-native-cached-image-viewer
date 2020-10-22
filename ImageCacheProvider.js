@@ -9,7 +9,7 @@ const PropTypes = require('prop-types');
 const ImageCacheManagerOptionsPropTypes = require('./ImageCacheManagerOptionsPropTypes');
 
 const ImageCacheManager = require('./ImageCacheManager');
-const ImageCachePreloader = require('./ImageCachePreloader');
+const ImageCachePreloader = require('./ImageCachePreloader'); 
 
 class ImageCacheProvider extends React.Component {
     static propTypes = {

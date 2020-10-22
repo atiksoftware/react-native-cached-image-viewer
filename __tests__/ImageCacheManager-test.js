@@ -1,4 +1,4 @@
-"use strict";
+"use strict"; 
 
 jest.mock("rn-fetch-blob", () => ({ default: { fs: {} } }));
 jest.mock("react-native-clcasher/MemoryCache", () => ({ default: {} }));

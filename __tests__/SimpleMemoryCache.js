@@ -1,6 +1,6 @@
 'use strict';
 
-const DEFAULT_EXPIRES = 999999;
+const DEFAULT_EXPIRES = 999999; 
 
 function currentTime() {
     return Math.floor((new Date().getTime() / 1000));
